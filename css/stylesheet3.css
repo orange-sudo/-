@@ -1,0 +1,12 @@
+                                                                               .first {width:49%;float:left;border:solid 1px;margin-bottom: 30px;height: 2500px;}
+					.second {width:50%;float:right;border:solid 1px;margin:-1.6px;margin-bottom: 30px;height: 2500px;}
+					/*分栏样式*/
+					nav{background:#817D7D; font-size:19px; height: 50px;line-height: 40px;color:#FFFFFF; padding:12px 12px;margin-bottom: 30px;}
+					nav a{color: #FAF7F7}
+					a:link
+				    {display:block;font-weight:bold;width:130px;text-align:center;padding:4px;text-decoration:none;float: left}
+					a:hover
+					{background-color:#FAF8F8;color:#040404;}/*导航样式*/
+					p{margin-left:30px;font-family:STKaiti; font-size: 18px;}
+					.word{font-size: 20px;}/*文字解说样式*/
+					h2{margin: 27px 2em;}/*标题样式*/

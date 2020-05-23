@@ -1,0 +1,15 @@
+                                                                    body{background-color:#DFDCDC}
+				    nav {background:#817D7D;font-size:19px; height: 50px;line-height: 50px; padding:0px 12px 0px;margin-bottom: 40px;margin-top:50px;}
+				    nav a{color: #FAF7F7}
+					a:link
+				    {display:block;font-weight:bold;color:#FFFFFF;width:120px;text-align:center;padding:4px;text-decoration:none;float: left;margin-left: 90px;}
+					a:hover
+					{background-color:#FAF8F8;color:#040404;}/*导航样式*/
+					.titleBar{border-style: double;width: 75px;height:750px;margin-left: 30px;}
+				    .title {font-family: STKaiti; font-size: 40px;word-wrap: break-word; text-align: left;letter-spacing: 30px;margin-left: 14px;}
+					table,th{margin-left: 5px;}/*附注栏样式*/
+					.copyright{font-family:SimSuncss;font-size:15px; background:#AD9E9F;height: 150px;line-height: 30px;text-align: center}
+				     /*页脚样式*/
+					.word{font-family: STKaiti; font-size: 25px;font-weight:bold;word-wrap: break-word;position: absolute;left: 202px;}
+				    /*小标题样式*/
+				    .container{width: 1500px; height: 810px; background: #FBFBFB;border:3px; border:solid 2px;padding-top:20px;}

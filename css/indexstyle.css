@@ -1,0 +1,18 @@
+				body{background-color:white;}
+				.nav ul {height:38px;padding:0;list-style: none}/*导航栏样式*/
+				.nav ul li{float:left;}
+				.nav ul li a{width:300px;height: 40px;line-height: 36px;background:#817D7D; color:#FAF8F8; font-weight:bold;margin:5px                0px;font-size:18px;display: block;text-align: center;text-decoration: none;}
+				.nav ul li a:hover{width:300px;height:40px;line-height:36px;border:1px   #FE0A0A;color:#000000;background:#FFF;}
+				.container{width:1500px; margin-top:320px;height:800px;background-color:white;
+					      border:3px; border:solid 2px  } /*整体框架*/
+				.header{width:550px;height: 310px;margin:16px auto;background-color: white;margin-right:40px;float:right}/*向右悬浮的模块*/
+				.header h2{padding:2px;border-left:10px solid salmon;}
+				.header p a{text-align: left;text-decoration:none;color:#000000;font-size:17px;font-family: "楷体";}
+				/*向左悬浮的模块*/
+				.header2{width:550px;height: 300px;margin-left:80px;margin-top: 450px; background-color: white;float:left}
+				.header2 h2{padding:2px;border-left:10px solid salmon;}
+				.header2 p a{text-align: left;text-decoration:none;color:#000000;font-size:17px;font-family: "楷体";}
+				.header3 {width:550px;height: 300px;margin-top:120px;background-color: white;margin-right:40px;float:right}
+				.header3 h2{padding:2px;border-left:10px solid salmon;}
+				.header3 p a{text-align: left;text-decoration:none;color:#000000;font-size:17px;font-family: "楷体";}
+				.enroll{background-color: #A7A7A7;width:80px;height:30px;float:right;text-align: center;line-height: 30px;font-family: "黑体";}/*登录栏*/
